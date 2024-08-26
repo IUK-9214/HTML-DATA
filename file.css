@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(91, 70, 70);
+}
+.heading
+{
+ text-align: center;
+    margin: auto;
+    background-color: aqua;
+    font-family: 'Times New Roman', Times, serif;
+
+
+}
+.para{
+
+    margin: auto;
+background-color: red;
+}
